@@ -1,4 +1,4 @@
-# Snake, in the browser, in only 404 bytes
+# Snake, in the browser, in only 402 bytes
 
 This is a simple snake game in code golf, written in pure HTML and JavaScript. It's only 404 bytes long, and it's playable in the browser.
 
