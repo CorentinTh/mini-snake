@@ -1,5 +1,7 @@
 # Snake, in the browser, in only 402 bytes
 
+Live demo available [here](https://mini-snake.corentin.tech/)! (You may need to disable your adblocker because of csp and inline scripts)
+
 This is a simple snake game in code golf, written in pure HTML and JavaScript. It's only 404 bytes long, and it's playable in the browser.
 
 - Move the snake with the arrow keys
@@ -7,8 +9,6 @@ This is a simple snake game in code golf, written in pure HTML and JavaScript. I
 - Don't hit yourself -> it reset the length
 - The snake can go through the walls
 - Use any other key to "pause" the game
-
-## Demo
 
 
 ## Code
