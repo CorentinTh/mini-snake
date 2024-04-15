@@ -1,6 +1,7 @@
 # Snake, in the browser, in only 402 bytes
 
-Live demo available [here](https://mini-snake.corentin.tech/)! (You may need to disable your adblocker because of csp and inline scripts)
+Live demo available [here](https://mini-snake.corentin.tech/)! 
+_(You may need to disable your adb locker because of csp and inline scripts)_
 
 This is a simple snake game in code golf, written in pure HTML and JavaScript. It's only 404 bytes long, and it's playable in the browser.
 
@@ -65,13 +66,13 @@ Auto formatted + added comments
     x = b.map(i => (x[i] + k[i] + w) % w);
 
     // Set the background color
-    F`tan`;
+    F`tan`; // Using tan because it's shorter than short hexadecimal colors (like #000)
 
     // Clear the canvas
     d.fillRect(0, 0, s, s);
 
     // Set the snake color
-    F`red`;
+    F`red`; // Using red because it's shorter than short hexadecimal colors (like #f00)
 
     // Draw the tail
     t.map(S);
